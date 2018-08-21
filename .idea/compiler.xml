@@ -19,7 +19,7 @@
         <module name="common" />
         <module name="gateway" />
         <module name="oauth-server" />
-        <module name="resource-api" />
+        <module name="resource-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -27,6 +27,7 @@
       <module name="gateway" target="1.8" />
       <module name="oauth-server" target="1.8" />
       <module name="resource-api" target="1.8" />
+      <module name="resource-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

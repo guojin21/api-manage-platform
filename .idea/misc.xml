@@ -6,7 +6,7 @@
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/oauth-server/pom.xml" />
         <option value="$PROJECT_DIR$/common/pom.xml" />
-        <option value="$PROJECT_DIR$/resource-api/pom.xml" />
+        <option value="$PROJECT_DIR$/resource-server/pom.xml" />
       </list>
     </option>
   </component>
